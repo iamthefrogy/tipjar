@@ -2,6 +2,12 @@
 
 A curated list of resources that will level up your bounty game. For more, head [back to the main page](./README.md).
 
+## Frogy's complete web application penetration checklist
+
+```
+Frogy shared one of the largest web app pentest checklist consisting many business logical and technical test cases, check them out here: https://github.com/iamthefrogy/Web-Application-Pentest-Checklist
+```
+
 ## Assetnote Wordlists
 
 ```
